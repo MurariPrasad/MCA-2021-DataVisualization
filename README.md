@@ -1,6 +1,6 @@
 # Data Visualization
 
-## Companies Registered to Ministry of Corporate Affairs, 2021.
+## Companies Registered to Indian Ministry of Corporate Affairs, 2021.
 
 **About**
 -A Simple EDA of the dataset of companies registered to the Ministry of Corporate Affairs in April, 2021.
